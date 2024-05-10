@@ -1,4 +1,4 @@
-Hi, my name is Kirill
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirill
 ==============================================================================================================================
 
 🌸Golang developer 🌸
@@ -24,5 +24,3 @@ src="https://img.shields.io/github/followers/RadKirill00?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/RadKirill00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RadKirill00&stroke=ffffff&background=27272a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
