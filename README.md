@@ -24,3 +24,8 @@ src="https://img.shields.io/github/followers/RadKirill00?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/RadKirill00"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RadKirill00&stroke=ffffff&background=27272a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+
+<img src="https://kartinki.pics/uploads/posts/2021-07/1627133399_27-kartinkin-com-p-anime-fon-v-fioletovikh-tonakh-anime-krasi-27.jpg" />
